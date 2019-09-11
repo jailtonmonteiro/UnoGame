@@ -1,0 +1,16 @@
+C:\Users\jailton.silva\Desktop\JogoUno\JogoUno\obj\Debug\JogoUno.csprojAssemblyReference.cache
+C:\Users\jailton.silva\Desktop\JogoUno\JogoUno\obj\Debug\JogoUno.csproj.CoreCompileInputs.cache
+C:\Users\jailton.silva\Downloads\V1Uno\JogoUno\JogoUno\bin\Debug\JogoUno.exe.config
+C:\Users\jailton.silva\Downloads\V1Uno\JogoUno\JogoUno\bin\Debug\JogoUno.exe
+C:\Users\jailton.silva\Downloads\V1Uno\JogoUno\JogoUno\bin\Debug\JogoUno.pdb
+C:\Users\jailton.silva\Downloads\V1Uno\JogoUno\JogoUno\obj\Debug\JogoUno.csprojAssemblyReference.cache
+C:\Users\jailton.silva\Downloads\V1Uno\JogoUno\JogoUno\obj\Debug\JogoUno.csproj.CoreCompileInputs.cache
+C:\Users\jailton.silva\Downloads\V1Uno\JogoUno\JogoUno\obj\Debug\JogoUno.exe
+C:\Users\jailton.silva\Downloads\V1Uno\JogoUno\JogoUno\obj\Debug\JogoUno.pdb
+C:\Users\jailton.silva\Downloads\Apresentacao_UNO\JogoUnoV1\JogoUno\bin\Debug\JogoUno.exe.config
+C:\Users\jailton.silva\Downloads\Apresentacao_UNO\JogoUnoV1\JogoUno\bin\Debug\JogoUno.exe
+C:\Users\jailton.silva\Downloads\Apresentacao_UNO\JogoUnoV1\JogoUno\bin\Debug\JogoUno.pdb
+C:\Users\jailton.silva\Downloads\Apresentacao_UNO\JogoUnoV1\JogoUno\obj\Debug\JogoUno.csprojAssemblyReference.cache
+C:\Users\jailton.silva\Downloads\Apresentacao_UNO\JogoUnoV1\JogoUno\obj\Debug\JogoUno.csproj.CoreCompileInputs.cache
+C:\Users\jailton.silva\Downloads\Apresentacao_UNO\JogoUnoV1\JogoUno\obj\Debug\JogoUno.exe
+C:\Users\jailton.silva\Downloads\Apresentacao_UNO\JogoUnoV1\JogoUno\obj\Debug\JogoUno.pdb
