@@ -17,7 +17,7 @@ namespace JogoUno
                               "##                       UNO                      ##\n" +
                               "##      PROGRAMAÇÃO ORIENTADA A OBJETOS - UVV     ##\n" +
                               "##                           by: Jailton Monteiro ##\n" +
-                              "##                               Yan Sant'ana     ##\n" +
+                              "##                                                ##\n" +
                               "##                                    Versao 1.00 ##\n" +
                               "####################################################\n" 
                               );
